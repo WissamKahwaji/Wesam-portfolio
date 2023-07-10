@@ -28,7 +28,7 @@ import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 import logo_transparent1 from '../assets/logo_transparent1.png';
 import wesam from '../assets/wesam.png';
-import wesam_Resume from '../assets/wesam_Resume.pdf';
+import wesam_Resume from '../assets/Wesam_Resume.pdf';
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
